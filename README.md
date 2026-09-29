@@ -1,4 +1,4 @@
-# PowerBI_Dashboards
+# DATA ANALYTICS PROJECTS
 A collection of Power BI dashboards built to demonstrate data visualization and analysis skills.
 
 📊 Credit Card Spending Insights
